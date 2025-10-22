@@ -1,2 +1,1 @@
-# pokedexcli-go
-Pokedex in GoLang
+# Pokedex in GoLang
